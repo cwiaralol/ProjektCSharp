@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2020/1/pr_2020_1_16_15_27_23_437_02.jpg</ImageUrl>
+		<AlternateText>G.SKILL 16GB (2x8GB) 3200MHz CL16 Aegis</AlternateText>
+		<Impressions>10</Impressions>
+		<Width>300</Width>
+		<Height>300</Height>
+	</Ad>
+	<Ad>
+		<ImageUrl>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2019/10/pr_2019_10_25_13_39_47_744_08.jpg</ImageUrl>
+		<AlternateText>Geforce 1660SUPER</AlternateText>
+		<Impressions>10</Impressions>
+		<Width>300</Width>
+		<Height>300</Height>
+	</Ad>
+	<Ad>
+		<ImageUrl>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2020/8/pr_2020_8_18_11_55_9_207_00.jpg</ImageUrl>
+		<AlternateText>i9 10900k</AlternateText>
+		<Impressions>10</Impressions>
+		<Width>300</Width>
+		<Height>300</Height>
+	</Ad>
+</Advertisements>
